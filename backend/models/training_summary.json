@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-10-25T06:08:28",
+  "dataset": {
+    "total_samples": 4525,
+    "balanced_samples": 4440,
+    "num_classes": 37,
+    "classes": [
+      "A",
+      "Aku",
+      "B",
+      "Betul",
+      "Bisindo",
+      "C",
+      "Cinta",
+      "D",
+      "Dengar",
+      "Dia",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "Kalian",
+      "Kuat",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z",
+      "asal",
+      "bIsyarat",
+      "terimakasih"
+    ]
+  },
+  "cnn": {
+    "val_accuracy": 0.19481982290744781,
+    "val_loss": 2.821525812149048,
+    "epochs": 35
+  }
+}
